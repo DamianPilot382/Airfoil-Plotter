@@ -1,0 +1,19 @@
+{
+  "name": "airfoil-plotter",
+  "version": "1.0.0",
+  "description": "Airfoil Plotter Using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianPilot382/Airfoil-Plotter.git"
+  },
+  "author": "Damian Ugalde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianPilot382/Airfoil-Plotter/issues"
+  },
+  "homepage": "https://github.com/DamianPilot382/Airfoil-Plotter#readme"
+}
